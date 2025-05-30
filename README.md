@@ -12,19 +12,13 @@ A minimal yet powerful travel list web application built with **React**, designe
 
 ## 🚀 Live Demo
 
-[🔗 View the Live Site](https://travel-list-orpin-iota.vercel.app/) 
+[🔗 Travel list ](https://travel-list-orpin-iota.vercel.app/) 
 
 ## 🛠️ Tech Stack
 
 - **React** – Frontend UI library
 - **Vanilla CSS** – For clean and responsive styling
 
-## 📦 Installation & Setup
-
-### Prerequisites
-
-- Node.js (v14+)
-- npm or yarn
 
 ## 🧭 Usage
 
